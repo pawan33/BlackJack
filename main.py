@@ -1,1 +1,5 @@
-print("hellow yedea")
+import Deck
+def calme():
+    Deck.hello()
+
+calme()
